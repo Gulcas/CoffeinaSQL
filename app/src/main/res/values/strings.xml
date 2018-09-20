@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffeina SQLapp</string>
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Inne cuda- wianki</item>
+    </string-array>
+    <string name="title_activity_drink_category">Kategoria napoje SQLapp</string>
+    <string name="title_activity_snack_category">Kategoria przekąski SQLapp</string>
+    <string name="toastMessage">Kliknąłeś opcję jeszcze nie przygotowaną</string>
+</resources>
